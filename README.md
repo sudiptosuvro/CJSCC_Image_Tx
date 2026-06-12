@@ -33,7 +33,7 @@ CJSCC_Image_Tx/
 │   ├── lcdg.py                    # Lightweight CSI-aware Dynamic Gating
 │   └── system_model.py            # Full end-to-end system model
 │
-├── no_equalizer/                  # Baseline variant without channel equalization
+├── no_equalizer/                  # Variant without channel equalization
 │   ├── lcdg.py
 │   ├── model.py
 │   ├── train_cifar10.py
